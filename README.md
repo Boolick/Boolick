@@ -2,7 +2,7 @@
 
 ## 🌐 Connect with me:
 
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-bage&logo=telegram&logoColor=white)](https://t.me/AlexandereBullo)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-bage&logo=telegram&logoColor=white)](https://t.me/AlexanderBullo)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1035100299347644436)
 [![Email](https://img.shields.io/badge/Email-green.svg?logo=gmail&logoColor=white)](mailto:bulloalexander77@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedIN&logoColor=white)](https://www.linkedin.com/in/boolick-undefined-895688236)
