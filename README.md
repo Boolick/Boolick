@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1035100299347644436)
 [![Email](https://img.shields.io/badge/Email-green.svg?logo=gmail&logoColor=white)](mailto:bulloalexander77@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedIN&logoColor=white)](https://www.linkedin.com/in/boolick-undefined-895688236)
-[![MyPortfolio](https://img.shields.io/badge/MyPortfolio-593D88.svg?logo=netlify&logoColor=white)](https://myportfolioprojecct.netlify.app/)
+[![MyPortfolio](https://img.shields.io/badge/MyPortfolio-593D88.svg?logo=netlify&logoColor=white)](https://resumeportfoliocv.netlify.app/?ref=external)
 
 ## 💻 Tech Stack:
 
