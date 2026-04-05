@@ -1,4 +1,4 @@
-## Hi, there! I'm Alexander Bullo </br> I'm **Front-end Developer**
+## Hi, there! I'm Alexander Bullo </br> I'm **Frontend Engineer**
 
 ## 🌐 Connect with me:
 
